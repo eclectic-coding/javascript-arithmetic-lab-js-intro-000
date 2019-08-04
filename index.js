@@ -17,11 +17,19 @@ function divide() {
 
 
 function inc (n) {
-  n += 1 
+  return n += 1 
 }
 
-function dec 
+function dec(n) {
+  return n -= 1 
+}
 
-function makeInt 
 
-function preserveDeceimal 
+function makeInt(n) {
+  return parseInt(n, 10) 
+}
+
+
+function preserveDecimal(n){
+  return parseFloat(n)
+}

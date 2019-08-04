@@ -1,7 +1,9 @@
-add()
+add(a, b) {
+  return a + b;
+}
 
-subtract()
+subtract(a, b)
 
-multiply()
+multiply(a, b)
 
 divide()

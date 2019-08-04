@@ -2,13 +2,23 @@ function add(a, b) {
   return a + b
 }
 
-function subtract(a, b)
+function subtract(a, b) {
+  return a - b
+}
 
-function multiply(a, b)
+function multiply(a, b) {
+  return a * b
+}
 
-divide()
 
-function inc 
+function divide() {
+  return a / b
+}
+
+
+function inc (n) {
+  n += 1 
+}
 
 function dec 
 

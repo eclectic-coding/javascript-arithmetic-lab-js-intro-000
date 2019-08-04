@@ -7,3 +7,11 @@ function subtract(a, b)
 function multiply(a, b)
 
 divide()
+
+function inc 
+
+function dec 
+
+function makeInt 
+
+function preserveDeceimal 
